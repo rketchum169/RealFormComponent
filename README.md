@@ -37,4 +37,24 @@ The components in the current form labeled:
 
 ### Header Component & Props
 
+Within the `ContactForm.js` you can edit the `name` and `instruction` prop apart of `Header` component. The `name` prop edits the title and `instruction` prop edits the subtext underneath.
+
 `<Header name="Contact Me" instruction="This is where you would write some informational text that would your user with their experience." >`
+
+### Label Component & Props
+
+Within the `ContactForm.js` you can edit the `name` prop apart of the `Label` component. The `name` prop edits the label title.
+
+`<Label name="Edit this to change label title" />`
+
+### TextInput Component & props
+
+Within the `ContactForm.js` you can edit the `type` & `placeholder` prop apart of the `TextInput` component. The `type` prop edits input type and `placeholder` will change what's displayed.
+
+`<TextInput type="email" placeholder="Enter your email here" />`
+
+### TextArea Component & props
+
+Within the `ContactForm.js` you can edit the `placeholder` prop apart of the `TextArea` component. The `placeholder` will change what's displayed. The text area component is a larger text input.
+
+`<TextArea placeholder="Enter any important notes here" />`
