@@ -79,4 +79,4 @@ Make this form your own by duplicating elements within `ContactForm.js` Everyone
 
 Please feel free to contact me through GitHub if you run into a problema and we can work on the solution together!
 
-<img src="https://giphy.com/embed/xT9IgKwOGmTDn4TaRq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://giphy.com/embed/xT9IgKwOGmTDn4TaRq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
