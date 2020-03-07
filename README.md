@@ -1,6 +1,6 @@
 ## Form Component Creator
 
-<img src="./DOC_Images/Baseform.png" width="100" height="100">
+<img src="./DOC_Images/Baseform.png" width="400">
 
 ### `yarn start`
 
