@@ -1,6 +1,6 @@
 ## Form Component Creator
 
-![BaseForm](./DOC_Images/Baseform.png)
+![BaseForm](./DOC_Images/Baseform.png){:height="50%" width="50%"}
 
 ### `yarn start`
 
