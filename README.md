@@ -1,4 +1,4 @@
-## Contact Form Component
+# Contact Form Component
 
 <img src="./DOC_Images/Baseform.png" width="400">
 
@@ -35,6 +35,6 @@ The components in the current form labeled:
 
 <img src="./DOC_Images/LabelBaseform.png" width="400">
 
-# Header Component & Prop
+### Header Component & Props
 
 `<Header name="Contact Me" instruction="This is where you would write some informational text that would your user with their experience." >`
