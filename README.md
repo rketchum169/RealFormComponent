@@ -1,16 +1,20 @@
-## Form Component Creator
+## Contact Form Component
 
 <img src="./DOC_Images/Baseform.png" width="400">
 
-### `yarn start`
+### Step 1.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+To use the contact form creator, begin by adding the the ContactForm folder into your components project folder.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Step 2.
 
-### `yarn test`
+The next step is to import the ContactForm component within your project. At the top of your specified file please copy and paste.
+
+`import ContactForm from "./ContactForm/ContactForm.js"`
+
+Whereever you would like to use the component, please call on the component using
+
+`<ContactForm />`
 
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
