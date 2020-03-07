@@ -2,11 +2,11 @@
 
 <img src="./DOC_Images/Baseform.png" width="400">
 
-### Step 1.
+### Step 1: Download & Place in Your Components folder
 
-To use the contact form creator, begin by adding the the ContactForm folder into your components project folder.
+Download the repo. After you have downloaded the folder. Add the ContactForm folder into your components project folder.
 
-### Step 2.
+### Step 2: Import
 
 The next step is to import the ContactForm component within your project. At the top of your specified file please copy and paste.
 
@@ -15,3 +15,22 @@ The next step is to import the ContactForm component within your project. At the
 Wherever you would like to use the component, please call on the component using
 
 `<ContactForm />`
+
+You are now using the component. Congratulations.
+
+### Step 3: Form field Customization
+
+The greate thing about this component is it's Atomic Design. Everyone usually asks for something different so we built this component just for that. Within `ContactForm` folder, we have several
+other components we'd like to refer to as "Atoms". Each with it's own unique properties to give you that level of customization you're dying to have. These other component files are as follows:
+
+`Header.js`
+
+`Label.js`
+
+`TextArea.js`
+
+`TextInput.js`
+
+The components in the current form labeled:
+
+<img src="./DOC_Images/LabelBaseform.png" width="400">
