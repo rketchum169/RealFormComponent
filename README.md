@@ -12,7 +12,7 @@ The next step is to import the ContactForm component within your project. At the
 
 `import ContactForm from "./ContactForm/ContactForm.js"`
 
-Whereever you would like to use the component, please call on the component using
+Wherever you would like to use the component, please call on the component using
 
 `<ContactForm />`
 
