@@ -58,3 +58,25 @@ Within the `ContactForm.js` you can edit the `type` & `placeholder` prop apart o
 Within the `ContactForm.js` you can edit the `placeholder` prop apart of the `TextArea` component. The `placeholder` will change what's displayed. The text area component is a larger text input.
 
 `<TextArea placeholder="Enter any important notes here" />`
+
+### CSS
+
+The css file is at your full disposal to adjust however you would like.
+
+### Saving to Database
+
+Because the amount of customization at your finger-tips the submit function is at your full disposal on how you would like to use.
+
+`<button type="Submit" value="Submit" onChange={alert("Input your onchange function here")>SUBMIT</button>`
+
+This form component is more to just get you quickly started on a form for your project.
+
+### Summary
+
+Make this form your own by duplicating elements within `ContactForm.js` Everyone always needs something different so make sure this form conforms to your needs!
+
+### Questions?
+
+Please feel free to contact me through GitHub if you run into a problema and we can work on the solution together!
+
+<iframe src="https://giphy.com/embed/xT9IgKwOGmTDn4TaRq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
